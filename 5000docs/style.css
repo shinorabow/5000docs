@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'notobk-subset';
+	src: url('notobk-subset.otf') format('opentype');
+}
+
+div {
+	display: block;
+}
+
+.font-load{
+    font-family: 'notobk-subset';
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
